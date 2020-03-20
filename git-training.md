@@ -3,4 +3,4 @@ added checkbox
 
 
 new-pararagraph
-- [] added new paragrapg in branch
+- [] added new-paragraph in branch
